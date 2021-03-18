@@ -1,0 +1,12 @@
+node_modules
+plugins
+admin/images
+app/.sourcemaps
+platforms
+web/dist
+package-lock.json
+files
+.sourcemaps
+app/www
+www/
+adm/dist
